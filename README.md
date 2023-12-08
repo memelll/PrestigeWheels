@@ -103,7 +103,7 @@ To add libraries:
 ### 📦Installation 
 
 #### 1. Clone the repository to your local machine:
-    git clone https://github.com/PrestigeWheels/Car_dealers.git
+    git clone https://github.com/memelll/PrestigeWheels
 
 
 #### 2. Navigate to the project directory:
