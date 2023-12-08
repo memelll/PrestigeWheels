@@ -64,6 +64,8 @@ Enhanced features for improved employee-manager relationships and precise contro
 Get your engines going! Follow our startup guide to accelerate your understanding of setting up your DBMS and OOP project.
 
 ### 🛠️Prerequisites 
+<a name="prerequisites"></a>
+
 Before you begin, make sure you have the following requirements in place:
 
 - **Java Development Kit (JDK)**
@@ -101,6 +103,7 @@ To add libraries:
 
 #
 ### 📦Installation 
+<a name="installation"></a>
 
 #### 1. Clone the repository to your local machine:
     git clone https://github.com/memelll/PrestigeWheels
