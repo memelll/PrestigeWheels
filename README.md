@@ -202,7 +202,7 @@ Get to know the team behind Prestige Wheels, a crew dedicated to driving success
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179367299585671168/405357410_1146562466383514_7746461751389922901_n.jpg?" width="250" height="250" />
 </p>
 <p align="center">
-  Alyssa Marie D. Hernandez
+  Hernandez, Alyssa Marie D.
 </p>
 <p align="center">
   22-06424@g.batstate-u.edu.ph
@@ -214,7 +214,7 @@ Get to know the team behind Prestige Wheels, a crew dedicated to driving success
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg?" width="250" height="250" />
 </p>
 <p align="center">
-  Julianna Myane L. Huelgas
+  Huelgas, Julianna Myane L.
 </p>
 <p align="center">
   22-07128@g.batstate-u.edu.ph
@@ -226,7 +226,7 @@ Get to know the team behind Prestige Wheels, a crew dedicated to driving success
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179422263251046430/photo.jpg?" width="250" height="250" />
 </p>
 <p align="center">
-  Maria Lourdes M. Magnaye
+  Magnaye, Maria Lourdes M.
 </p>
 <p align="center">
   22-03152@g.batstate-u.edu.ph
@@ -238,7 +238,7 @@ Get to know the team behind Prestige Wheels, a crew dedicated to driving success
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179420232981426238/370242291_2440962639408589_4549766057669794496_n.jpg?" width="250" height="250" />
 </p>
 <p align="center">
-  Lady Crissa L. Matining
+  Matining, Lady Crissa L.
 </p>
 <p align="center">
   22-09416@g.batstate-u.edu.ph
@@ -250,7 +250,7 @@ Get to know the team behind Prestige Wheels, a crew dedicated to driving success
   <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179393025370234980/403920257_6739503106119211_1501978745346261054_n.jpg?" width="250" height="250" />
 </p>
 <p align="center">
-  Angel P. Peradilla
+  Peradilla, Angel P.
 </p>
 <p align="center">
   22-00673@g.batstate-u.edu.ph
